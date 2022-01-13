@@ -1,0 +1,17 @@
+{
+    "name": "matijse/homewizard-mindergas",
+    "description": "Send Homewizard P1 meter readings to Mindergas API",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "ext-json": "*",
+        "vlucas/phpdotenv": "^5.4",
+        "monolog/monolog": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "Matijs Eijkemans",
+            "email": "matijs@cell-0.com"
+        }
+    ]
+}
